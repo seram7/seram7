@@ -1,5 +1,5 @@
 {
-  "name": "{ John Smith }",
+  "name": "{ Sehee and Jeongju 결혼 }",
   "icons": [
     {
       "src": "/img/web-app/icon-36p.png",
@@ -32,6 +32,6 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://le4ker.github.io",
+  "start_url": "http://localhost:4000",
   "display": "standalone"
 }
