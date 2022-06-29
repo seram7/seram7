@@ -29,11 +29,11 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
+lang: "kor"
 author: "SH&JJ"
-title: "{ Sehee and Jeongju 결혼 }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+title: "{ Sehee and Jeongju }"
+description: "Wedding Inviation for Sehee and Jeonju"
+keywords: "wedding"
 favicon: "/img/favicon.ico"
 
 ################
@@ -57,8 +57,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Thanks to GOD"
+  - text: "Welcom to our wedding"
 
 me-img: "/img/jetpacktocat.png"
 
