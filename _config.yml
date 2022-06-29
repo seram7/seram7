@@ -32,9 +32,9 @@ force-https: True
 lang: "kor"
 author: "SH&JJ"
 title: "{ Sehee and Jeongju }"
-description: "Wedding Inviation for Sehee and Jeonju"
+description: "Wedding Inviation for Sehee and Jeongju"
 keywords: "wedding"
-favicon: "/img/favicon.ico"
+favicon: "/img/heart.png" #ico
 
 ################
 # Header layout #
@@ -43,7 +43,7 @@ favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 logo: "/img/author.png" # leave blank if you don't want a logo
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/main.JPG"
 
 ##############################
 # Dynamic Text on the Header #
