@@ -31,7 +31,7 @@ force-https: True
 
 lang: "kor"
 author: "SH&JJ"
-title: "SeHee and JungJoo"
+title: "SeHee & JungJoo"
 description: "Wedding Inviation for Sehee and JungJoo"
 keywords: "wedding"
 favicon: "/img/heart.png" #ico
@@ -57,7 +57,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Thanks to GOD"
+  - text: "Thank, GOD"
   - text: "Welcome to our wedding"
 
 # me-img: "/img/jetpacktocat.png"
