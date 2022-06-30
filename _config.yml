@@ -194,7 +194,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: Sehee
 keybase-in-social: True
 keybase-in-footer: True
 
@@ -205,10 +205,10 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  Date: 'about'
+#  Blog: 'latest-post'
+  Gallery: 'timeline'
+  Message: 'contact'
 
 # Exclusion list from the generated _site
 
