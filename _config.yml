@@ -58,7 +58,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Thanks to GOD"
-  - text: "Welcom to our wedding"
+  - text: "Welcome to our wedding"
 
 # me-img: "/img/jetpacktocat.png"
 
@@ -85,7 +85,7 @@ lines: # You can add HTML Tags in the Text
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#ffffff" # #000000
+color-browser: "#fff" # #000000
 apple-status-bar-style: "white" # "black"
 
 ################
@@ -139,6 +139,9 @@ events:
   - image: "/img/timeline/2.JPG"
     date: "September 2007 - August 2013"
     description: "Started coding"
+  - image: "/img/timeline/3.JPG"
+    date: "Now"
+    description: "uhaha"
 
 # First image of the Timeline
 
@@ -148,7 +151,7 @@ timeline-img: "/img/timeline/3.JPG"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "seram7@naver.com"
 
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
@@ -162,7 +165,7 @@ pgp: False
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-# author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
 # author_blurb_image: "/img/author.png"
 
 ##################
