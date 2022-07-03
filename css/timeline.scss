@@ -7,26 +7,26 @@
     list-style: none;
 }
 
-.timeline:before {
+.timeline:before { // vertical line
     content: "";
     position: absolute;
     top: 0;
     bottom: 0;
     left: 40px;
-    width: 2px;
-    margin-left: -1.5px;
-    background-color: #f1f1f1;
+    width: 0px; //2
+    margin-left: 0px; //-1.5px
+    background-color: #125463; //f1f1f1
 }
 
-.timeline>li {
+.timeline>li { // I dont know yet
     position: relative;
     margin-bottom: 50px;
     min-height: 50px;
 }
 
 .timeline>li:before,
-.timeline>li:after {
-    content: " ";
+.timeline>li:after { // left table?
+    content: " "; // " "
     display: table;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .timeline>li .timeline-panel {
-    float: right;
+    float: left;// right
     position: relative;
     width: 100%;
     padding: 0 20px 0 100px;
@@ -54,6 +54,8 @@
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0;
+    background-color: #125463; // non-existed before
+
 }
 
 .timeline>li .timeline-image {

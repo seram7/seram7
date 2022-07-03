@@ -195,7 +195,7 @@ a {
         .intro-text {
             font-size: 18px;
             @if $navbar-text-shadow {
-                text-shadow: 1px 0 1px #fcfcfc;
+                text-shadow: 1px 1px 2px #fcfcfc;
             }
         }
     }
