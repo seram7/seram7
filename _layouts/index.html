@@ -12,8 +12,6 @@
 
     {% include header.html %}
 
-    {% include gallery.html %} <!-- my code-->
-
     {% for p in site.pages_list %}
       {% for page in site.pages %}
         {% if p[1] == page.section-type %}
@@ -22,7 +20,10 @@
       {% endfor %}
     {% endfor %}
 
-    {% include comments.html %} <!-- my code-->
+    {% include gallery.html folder = "gallery" %} <!-- my code-->
+
+
+    <!-- {% include comments.html %} my code -->
     {% include footer.html %}
 
     {% include js.html %}
