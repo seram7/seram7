@@ -217,7 +217,8 @@ keybase-in-footer: True
 pages_list:
   Date: 'about'
 #  Blog: 'latest-post'
-  Gallery: 'timeline'
+#  Gallery: 'timeline'
+  Gallery: 'gallery'
   Message: 'contact'
 
 # Exclusion list from the generated _site
