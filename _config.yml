@@ -40,7 +40,7 @@ favicon: "/img/heart.png" #ico
 # Header layout #
 ################
 
-black-favicon: "/img/heart2.png?width=16&height=16"
+black-favicon: "/img/heart2.png"
 # logo: "/img/author.png" # leave blank if you don't want a logo
 
 background-img: "../img/main.JPG"
@@ -127,6 +127,13 @@ vkontakte-share: True
 disqus-shortname: "personal-jekyll-theme"
 
 syntax-highlight: True
+
+# my_code
+############
+#  Gallery  #
+############
+imagesurl: "/img/gallery/"
+thumbsurl: "/img/thumbs/"
 
 ############
 # Timeline #
