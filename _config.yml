@@ -135,6 +135,9 @@ syntax-highlight: True
 imagesurl: "/img/gallery/"
 thumbsurl: "/img/thumbs/"
 
+layout: default
+comments: true
+
 ############
 # Timeline #
 ############
